@@ -73,7 +73,7 @@ function linkTo_UnCryptMailto( s )
 				<header id="header" class="5grid-layout">
 					<div class="row">
 						<div class="12u">
-							<h1><a href="[% make_uri('index.html') %]" class="mobileUI-site-name"><img src="[% make_uri_info('images', 'SwissPerlLogoBW.svg') %]" width="90px" alt="Logo" /> Swiss Perl Workshop 2018</a></h1>
+							<h1><a href="[% make_uri('index.html') %]" class="mobileUI-site-name"><img src="[% make_uri_info('images', 'SwissPerlLogoBW.svg') %]" width="90px" alt="Logo" /> Swiss Perl Workshop 2019</a></h1>
 							<social id="social">
 								<a target="_blank" href="http://www.facebook.com/swissperlworkshop"><img src="[% make_uri_info('images', 'facebook.png') %]" alt="Facebook" /></a>
 								<a target="_blank" href="https://www.xing.com/events/swiss-perl-workshop-2017-1822847"><img src="[% make_uri_info('images', 'xing.png') %]" alt="Xing" /></a>
@@ -97,9 +97,9 @@ function linkTo_UnCryptMailto( s )
 										<div class="menu-item"><a href="[% make_uri('venue.html') %]">Venue</a></div>
 										<div class="menu-item"><a href="[% make_uri('registration.html') %]">Registration</a></div>
 										<div class="menu-item"><a href="[% make_uri('cfp.html') %]">Call for papers</a></div>
-										<div class="menu-item"><a href="[% make_uri('gibb_getting_to.html') %]">Getting there</a></div>
-										<div class="menu-item"><a href="[% make_uri('gibb_hotels.html') %]">Accommodation</a></div>
-										<div class="menu-item"><a href="[% make_uri('gibb_things_todo.html') %]">Things to do</a></div>
+										<!--<div class="menu-item"><a href="[% make_uri('gibb_getting_to.html') %]">Getting there</a></div>-->
+										<!--<div class="menu-item"><a href="[% make_uri('gibb_hotels.html') %]">Accommodation</a></div>-->
+										<!--<div class="menu-item"><a href="[% make_uri('gibb_things_todo.html') %]">Things to do</a></div>-->
 										<div class="menu-item"><a href="[% make_uri('sponsors.html') %]">Our Sponsors</a></div>
 										<div class="menu-item"><a href="[% make_uri('sponsoring.html') %]">Sponsoring</a></div>
 										<div class="menu-item"><a href="[% make_uri('organisers.html') %]">Organisers</a></div>
@@ -126,15 +126,15 @@ function linkTo_UnCryptMailto( s )
                                                                                 <h2>Sponsors</h2>
 										</header>
 										<ul class="link-list">
-											<li><a target="_blank" href="https://www.humanstate.com/"><img src="[% make_uri_info('images', 'humanstate.png') %]" alt="Humanstate" /></a></li>
-											<li><a target="_blank" href="https://edument.se/en/"><img src="[% make_uri_info('images', 'Edument-logo-standard.png') %]" width="175px" alt="Edument" /></a></li>
-											<li><a target="_blank" href="https://www.gibb.ch/"><img src="[% make_uri_info('images', 'gibb_logo.png') %]" alt="gibb" /></a></li>
-											<li><a target="_blank" href="http://www.oetiker.ch/"><img src="[% make_uri_info('images', 'op-logo-200.png') %]" alt="Oetiker + Partner AG" /></a></li>
-											<li><a target="_blank" href="http://www.perl-services.de/"><img src="[% make_uri_info('images', 'perl-services.svg') %]" width="175px" style="background-color: #267389; border-radius: 4px; padding: 6px;" alt="perl services" /></a></li>
-											<li><a target="_blank" href="http://www.open.ch/"><img src="[% make_uri_info('images', 'open-systems.png') %]" alt="Open Systems AG" /></a></li>
-											<li><a target="_blank" href="https://cubulon.ch/"><img src="[% make_uri_info('images', 'cubulon.png') %]" alt="cubulon" /></a></li>
-											<li><a target="_blank" href="http://www.perl6.org/"><img src="[% make_uri_info('images', 'camelia-logo.png') %]" alt="The Perl 6 Community" /></a></li>
-											<li><a target="_blank" href="https://www.baumer-its.ch/"><img src="[% make_uri_info('images', 'baumer_it-services.svg') %]" width="175px" alt="baumer it-services" /></a></li>
+											<!--<li><a target="_blank" href="https://www.humanstate.com/"><img src="[% make_uri_info('images', 'humanstate.png') %]" alt="Humanstate" /></a></li>-->
+											<!--<li><a target="_blank" href="https://edument.se/en/"><img src="[% make_uri_info('images', 'Edument-logo-standard.png') %]" width="175px" alt="Edument" /></a></li>-->
+											<!--<li><a target="_blank" href="https://www.gibb.ch/"><img src="[% make_uri_info('images', 'gibb_logo.png') %]" alt="gibb" /></a></li>-->
+											<!--<li><a target="_blank" href="http://www.oetiker.ch/"><img src="[% make_uri_info('images', 'op-logo-200.png') %]" alt="Oetiker + Partner AG" /></a></li>-->
+											<!--<li><a target="_blank" href="http://www.perl-services.de/"><img src="[% make_uri_info('images', 'perl-services.svg') %]" width="175px" style="background-color: #267389; border-radius: 4px; padding: 6px;" alt="perl services" /></a></li>-->
+											<!--<li><a target="_blank" href="http://www.open.ch/"><img src="[% make_uri_info('images', 'open-systems.png') %]" alt="Open Systems AG" /></a></li>-->
+											<!--<li><a target="_blank" href="https://cubulon.ch/"><img src="[% make_uri_info('images', 'cubulon.png') %]" alt="cubulon" /></a></li>-->
+											<!--<li><a target="_blank" href="http://www.perl6.org/"><img src="[% make_uri_info('images', 'camelia-logo.png') %]" alt="The Perl 6 Community" /></a></li>-->
+											<!--<li><a target="_blank" href="https://www.baumer-its.ch/"><img src="[% make_uri_info('images', 'baumer_it-services.svg') %]" width="175px" alt="baumer it-services" /></a></li>-->
 											<!--<li><a target="_blank" href="https://perl.careers/"><img src="[% make_uri_info('images', 'perlcareers_200.png') %]" alt="Perl Careers" /></a></li>-->
 											<!--<li><a target="_blank" href="http://www.booking.com/"><img src="[% make_uri_info('images', 'booking.png') %]" alt="booking.com" /></a></li> -->
 											<!--<li><a target="_blank" href="https://www.bolay.co/fr/home/"><img src="[% make_uri_info('images', 'bolayCo_OK.png') %]" alt="bolay.co" /></a></li>-->
@@ -152,7 +152,7 @@ function linkTo_UnCryptMailto( s )
                                                                                 <h3>Community Sponsors</h3>
 										</header>
 										<ul class="link-list">
-											<li><a target="_blank" href="https://www.devopsdays.org/events/2019-zurich/"><img src="[% make_uri_info('images', 'logo-devopsdays-2019.png') %]" width="175px" alt="devopsdays Z&uuml;rich" /></a></li>
+											<!--<li><a target="_blank" href="https://www.devopsdays.org/events/2019-zurich/"><img src="[% make_uri_info('images', 'logo-devopsdays-2019.png') %]" width="175px" alt="devopsdays Z&uuml;rich" /></a></li>-->
 										</ul>
                                                                                 <!--
 										<p>
