@@ -152,13 +152,12 @@ function linkTo_UnCryptMailto( s )
 											<h3>Community Sponsors</h3>
 										</header>
 										<ul class="link-list">
-											<!--<li><a target="_blank" href="https://www.devopsdays.org/events/2019-zurich/"><img src="[% make_uri_info('images', 'logo-devopsdays-2019.png') %]" width="175px" alt="devopsdays Z&uuml;rich" /></a></li>-->
+											<li><a target="_blank" href="https://www.devopsdays.org/events/2019-zurich/"><img src="[% make_uri_info('images', 'logo-devopsdays-2019.png') %]" width="175px" alt="devopsdays Z&uuml;rich" /></a></li>
 										</ul>
-                                                                                <!--
+
 										<p>
 										We are looking for <a href="[% make_uri('sponsoring.html') %]">Sponsors</a>.
 										</p>
-                                                                                -->
 									</section>
 									
 									<section>
