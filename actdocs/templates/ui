@@ -24,7 +24,7 @@
   <link rel="stylesheet" href="[% make_uri_info('css/5grid', 'core-noscript.css') %]" />
   <link rel="stylesheet" href="[% make_uri_info('css', 'style.css') %]" />
   <link rel="stylesheet" href="[% make_uri_info('css', 'style-desktop.css') %]" />
-  
+
 </noscript>
 
 <link rel="stylesheet" type="text/css" href="/css/act-base.css" />
@@ -119,7 +119,7 @@ function linkTo_UnCryptMailto( s )
 
 							</div>
 							<div class="3u">
-								
+
 								<!-- Right Sidebar -->
 									<section>
 										<header>
@@ -132,7 +132,7 @@ function linkTo_UnCryptMailto( s )
 											<li><a target="_blank" href="https://www.baumer-its.ch/"><img src="[% make_uri_info('images', 'baumer_it-services.svg') %]" width="175px" alt="baumer it-services" /></a></li>
 											<!--<li><a target="_blank" href="https://edument.se/en/"><img src="[% make_uri_info('images', 'Edument-logo-standard.png') %]" width="175px" alt="Edument" /></a></li>-->
 											<!--<li><a target="_blank" href="https://www.gibb.ch/"><img src="[% make_uri_info('images', 'gibb_logo.png') %]" alt="gibb" /></a></li>-->
-											<!--<li><a target="_blank" href="http://www.open.ch/"><img src="[% make_uri_info('images', 'open-systems.png') %]" alt="Open Systems AG" /></a></li>-->
+											<li><a target="_blank" href="http://www.open-systems.ch/"><img src="[% make_uri_info('images', 'open-systems.svg') %]" alt="Open Systems AG" /></a></li>
 											<!--<li><a target="_blank" href="https://cubulon.ch/"><img src="[% make_uri_info('images', 'cubulon.png') %]" alt="cubulon" /></a></li>-->
 											<!--<li><a target="_blank" href="http://www.perl6.org/"><img src="[% make_uri_info('images', 'camelia-logo.png') %]" alt="The Perl 6 Community" /></a></li>-->
 											<!--<li><a target="_blank" href="https://perl.careers/"><img src="[% make_uri_info('images', 'perlcareers_200.png') %]" alt="Perl Careers" /></a></li>-->
@@ -159,7 +159,7 @@ function linkTo_UnCryptMailto( s )
 										We are looking for <a href="[% make_uri('sponsoring.html') %]">Sponsors</a>.
 										</p>
 									</section>
-									
+
 									<section>
 										<header>
 											<h2>Blog</h2>
@@ -173,12 +173,12 @@ function linkTo_UnCryptMailto( s )
 
 										</p>
 									</section>
-									
+
 							</div>
 						</div>
 					</div>
 				</div>
-			</div>			
+			</div>
 
 		<!-- Footer -->
 			<div id="footer-wrapper">
@@ -194,7 +194,7 @@ function linkTo_UnCryptMailto( s )
 							<!-- Blurb -->
 								<section>
 									<h2>About Perl</h2>
-									<p>Perl 5 is a highly capable, feature-rich programming language with over 30 years of development. Perl 5 runs on over 100 platforms from portables to mainframes and is suitable for both rapid prototyping and large scale development projects.		
+									<p>Perl 5 is a highly capable, feature-rich programming language with over 30 years of development. Perl 5 runs on over 100 platforms from portables to mainframes and is suitable for both rapid prototyping and large scale development projects.
 									</p>
 									<p>Perl 6 is a new language, part of the Perl family, not intended as a replacement for Perl 5, but as its own thing - libraries exist to allow you to call Perl 5 code from Perl 6 programs and vice versa.
 									</p>
