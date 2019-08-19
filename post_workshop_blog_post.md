@@ -44,7 +44,7 @@ An open calendar, or at least open to organisers of events, should be available.
 
 Longer term planning and earlier announcements of events would also be better for attendees and speakers to plan their schedules.
 
-## Locatio, Venue, and Dates
+## Location, Venue, and Dates
 
 Smaller workshops are usually consistent, give or take, in their choice of dates. This year's Swiss Perl Workshop was between a choice of three dates due to the availability of the venue. The most democratic approach was taken - a poll, and this ended up with the workshop being scheduled only a few days after The Perl Conference in Riga.
 
