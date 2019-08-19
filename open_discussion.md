@@ -53,34 +53,6 @@ continuity on dates/venue?
 
 More marketing, mailing lists, blogs, newsletters
 
-## What else happens/happened in Switzerland
-
-meetup - https://www.meetup.com/find/events/tech/?allMeetups=false&radius=100&userFreeform=Z%C3%BCrich%2C+Switzerland&mcId=c1005076&change=yes&eventFilter=mysugg
-
-Cloud Native: https://www.meetup.com/Cloud-Native-Computing-Switzerland/events/
-
-Testing conferences/workshops CI/CD
-
-There was an attempt (FROSCAMP) to do a larger opensource conference, didn't get too much traction?
-
-ZETECO (SH)
-
-Mini Debian conference, (NE)
-
-Postgres meeting every year. https://www.pgday.ch/2019/
-
-CH Open (?? more political?)
-
-Devops days (150+ attendees initially, 300+ now?), more discussion driven?
-
-https://www.cosin.ch/de/ (CCC CH) - 70+ attendees?
-
-EuroPython
-
-Two tracks
-	- have "invited" community in one track?
-	- hallway exchange
-
 ## Future schedule - single day? (Workshops struggling to fill schedule, even conferences)
 
 Single day on a Saturday, two tracks if enough talks - would attendees travel for a single day?
@@ -131,3 +103,32 @@ makers
 software craftsmanship groups - more about concepts than specific languages
 
 conceptual direction?
+
+## What else happens/happened in Switzerland
+
+meetup - https://www.meetup.com/find/events/tech/?allMeetups=false&radius=100&userFreeform=Z%C3%BCrich%2C+Switzerland&mcId=c1005076&change=yes&eventFilter=mysugg
+
+Cloud Native: https://www.meetup.com/Cloud-Native-Computing-Switzerland/events/
+
+Testing conferences/workshops CI/CD
+
+There was an attempt (FROSCAMP) to do a larger opensource conference, didn't get too much traction?
+
+ZETECO (SH)
+
+Mini Debian conference, (NE)
+
+Postgres meeting every year. https://www.pgday.ch/2019/
+
+CH Open (?? more political?)
+
+Devops days (150+ attendees initially, 300+ now?), more discussion driven?
+
+https://www.cosin.ch/de/ (CCC CH) - 70+ attendees?
+
+EuroPython
+
+Two tracks
+	- have "invited" community in one track?
+	- hallway exchange
+
