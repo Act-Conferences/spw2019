@@ -1,6 +1,6 @@
 # Swiss Perl Workshop Post Event Blog Post
 
-The [Swiss Perl Workshop](http://act.perl-workshop.ch/spw2019/index.html) is over for another year. Thanks to all who attended, sponsored, helped out on the day and before, gave talks, and made suggestions. There are a few photos of the event available on the [Perl Events Instagram feed](https://www.swiss-conferences.com/conferences).
+The [Swiss Perl Workshop](http://act.perl-workshop.ch/spw2019/index.html) is over for another year. Thanks to all who attended, sponsored, helped out on the day and before, gave talks, and made suggestions. There are a few photos of the event available on the [Perl Events Instagram feed](https://www.instagram.com/perl_events/).
 
 The videos of the talks are available [here](https://www.youtube.com/playlist?list=PLOOlhkMvt_o4y627mpaCGrO4ughSEeUgb). The recordings were largely successful, although one video still needs some putting together due to technical issues - this one will appear later.
 
