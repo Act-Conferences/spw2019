@@ -70,7 +70,7 @@ The workshop was held in the Vaudois Alps in 2017, and was relatively well atten
 
 The obvious choices of Geneva and Zürich would infer some advantages, easier travel options for those visiting the country, and perhaps better backing by corporate attendees, the expense would likely make it more difficult to find a suitable venue.
 
-Future venues to explore could be hack spaces, although most (?) don't have that much space. There are, however, many of these [https://wiki.hackerspaces.org/Switzerland](throughout Switzerland). Some of these appear to have [potential](https://hack.digitalglarus.ch/hacking-and-living-in-hotel-diesbach.html), although the location issue is again a concern.
+Future venues to explore could be hack spaces, although most (?) don't have that much space. There are, however, many of these [throughout Switzerland](https://wiki.hackerspaces.org/Switzerland). Some of these appear to have [potential](https://hack.digitalglarus.ch/hacking-and-living-in-hotel-diesbach.html), although the location issue is again a concern.
 
 Universities and technical schools are another avenue to explore. We had success in 2018 with gibb, and even managed to have students in one of the talks. Although it would be better to involve students more directly - perhaps with workshops, or even somehow in the workshop itself.
 
