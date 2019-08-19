@@ -24,11 +24,11 @@ There is also the current naming debate around perl6, which may eventually influ
 
 Some of these suggestions are dependent on the aforementioned perl6 rename, and some of them perhaps broaden the scope of the workshop too much or are again too specific e.g. having the location in the name reduces continuity for an event than doesn't always take place in the same city.
 
-It was generally agreed the key is to define the scope of the workshop more clearly before deciding on the name as concerns whether on such things as it being an open or community event are key concerns in the name.
+It was generally agreed the key is to define the scope of the workshop more clearly before deciding on the name as concerns on whether such things as it being an open or community event are key in the name.
 
 Another point was to use the word "development" or "programming" in the title as, while the subject of the talks may vary they can all (give or take) be classified as related to software development.
 
-Another point, and one I have considered, is that this is a little bit of history repeating as the original "The Perl Conference" became OSCON, which then lead to YAPC, and now here we are again. Personally I fell history will not repeat here, as the ecosystem and state of other conferences make it unlikely that any name change will result in a surge in attendance from those from other language communities, and thus not result in a desire to squeeze Perl out.
+Another point, and one I have considered, is that this is a little bit of history repeating as the original "The Perl Conference" became OSCON, which then lead to YAPC, and now here we are again. Personally I fell history will not repeat as the ecosystem and state of other conferences make it unlikely that any name change will result in a surge in attendance from those from other language communities, and thus not result in a desire to squeeze Perl out.
 
 ## Collaboration With Other [Perl] Events
 
@@ -36,7 +36,7 @@ In 2016 The Swiss and Austrian Perl Workshops teamed up to hold a joint event. I
 
 While The Perl Conference (Europe) is traditionally a gathering of European Perl developers (and beyond); it was felt that a couple of smaller workshops could join forces to have a larger workshop than they usually hold, but still maintain the smaller, close-knit, felling.
 
-The Alpine workshop itself could encompass France, Italy, Germany, Switzerland, Liechtenstein, and beyond.
+The Alpine workshop itself could encompass one or more of France, Italy, Germany, Switzerland, Liechtenstein, and beyond.
 
 Another option is to keep Perl in scope but invite another language community. These would be small to start with, include a handful of talks from the invited community, and guest speakers/workshops. More general workshops could also be looked at - it seems there is little appetite for Perl 5 workshops these days, they are poorly attended to the point that they sometimes end up being cancelled.
 
@@ -44,7 +44,7 @@ An open calendar, or at least open to organisers of events, should be available.
 
 Longer term planning and earlier announcements of events would also be better for attendees and speakers to plan their schedules.
 
-## Location, Venue, and Dates
+## Dates
 
 Smaller workshops are usually consistent, give or take, in their choice of dates. This year's Swiss Perl Workshop was between a choice of three dates due to the availability of the venue. The most democratic approach was taken - a poll, and this ended up with the workshop being scheduled only a few days after The Perl Conference in Riga.
 
@@ -58,11 +58,9 @@ The Swiss Perl Workshop has been two days of talks for the previous few years, t
 
 A possibility is to have a second day that is a hackathon / sprint / discussion / actual workshop. This could be half a maker day, hands on workshop, or something else not necessarily Perl specific. More workshops / hand on things could potentially encourage companies to send employees.
 
-Other points made about having a single day is if it would affect the social aspect? Would we have to charge to get the commitment?
+Other points made about having a single day is if it would affect the social aspect? Would we have to charge to get the commitment? Another approach for a two day schedule would be to have workshops in the mornings and then talks in the afternoons, rather than one day of each.
 
-Another approach for a two day schedule would be to have workshops in the mornings and then talks in the afternoons, rather than one day of each.
-
-## Future Venues
+## Future Locations/Venues
 
 While Flörli Olten is a great venue, and can accommodate up to 50 or 60 attendees, the location isn't the easiest. This, however, is the nature of Switzerland, and holding a workshop in the French or Italian speaking part of the country would likely affect attendance from those in the German speaking part of the country.
 
@@ -72,9 +70,9 @@ The obvious choices of Geneva and Zürich would infer some advantages, easier tr
 
 Future venues to explore could be hack spaces, although most (?) don't have that much space. There are, however, many of these [throughout Switzerland](https://wiki.hackerspaces.org/Switzerland). Some of these appear to have [potential](https://hack.digitalglarus.ch/hacking-and-living-in-hotel-diesbach.html), although the location issue is again a concern.
 
-Universities and technical schools are another avenue to explore. We had success in 2018 with gibb, and even managed to have students in one of the talks. Although it would be better to involve students more directly - perhaps with workshops, or even somehow in the workshop itself.
+Universities and technical schools are another avenue to explore. We had success in 2018 with gibb, and even managed to have students in one of the talks. Although it would be better to involve students more directly - perhaps with workshops.
 
-The key with any future venues is to establish exactly what we need and prioritise those: location, facilities, social aspect, catering, etc.
+The key with any future venues is to establish exactly what we need and prioritise those: location, facilities, social aspect, catering, workshops, etc.
 
 ## What Else Happens In Switzerland?
 
@@ -84,9 +82,7 @@ There have been a number of attempts to take small events and grow them to large
 
 Other events worth investigating include the Mini Debian Conference, although not held in Switzerland since 2013. There is a PostgreSQL meetup [every year](https://www.pgday.ch/2019/). [CH Open](https://www.ch-open.ch/) is another, although has become more politicised over recent years. [CoSin](https://www.cosin.ch/de/) is the Swiss version of the CCC.
 
-One event gaining good traction in Switzerland, and elsewhere, is [devopsdays](https://devopsdays.org/). These have been held in Geneva and Zürich in the last two years.
-
-Software craftsmanship groups was suggested as something to explore, as these relate to general programming and not specific languages.
+One event gaining good traction in Switzerland, and elsewhere, is [devopsdays](https://devopsdays.org/). These have been held in Geneva and Zürich in the last two years. Software craftsmanship groups was suggested as something to explore, as these relate to general programming and not specific languages.
 
 Many more workshops and conferences can be found on the [Swiss Conferences site](https://www.swiss-conferences.com/conferences), although it should be noted that this is not specific to technical workshops/conferences.
 
