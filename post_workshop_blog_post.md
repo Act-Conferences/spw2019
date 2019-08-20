@@ -90,7 +90,7 @@ Many more workshops and conferences can be found on the [Swiss Conferences site]
 
 There's a lot to consider here. The intention with the open discussion was to look into ways we can continue to hold the workshop. There is no desire to grow the workshop to one of hundreds of attendees or topics, but rather each year introduce a handful of attendees from other communities to Perl and vice-versa.
 
-While there will always be a core group of attendees and speakers, the rate of attrition means that over coming years it will be more difficult to attract more than a dozen attendees to workshops and that ultimately lead to the end of the workshop. Several small Perl workshops and meetups throughout Europe have suffered the same fate over the years. Even larger conferences have seen the same. This situation needs addressing.
+While there will always be a core group of attendees and speakers, the rate of attrition means that over coming years it will be more difficult to attract more than a dozen attendees to workshops. That will ultimately lead to the end of the workshop. Several small Perl workshops and meetups throughout Europe have suffered the same fate over the years. Even larger conferences have seen the same. This situation needs addressing.
 
 If you have something to add then please do so. One thing is for sure: the workshop will be back next year, somewhere, and will be known under a new name. Stay tuned.
 
